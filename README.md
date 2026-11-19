@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Optimal-Pratik/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Optimal-Pratik/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Optimal-Pratik/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Optimal-Pratik/DSA/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Optimal-Pratik/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -38,5 +40,18 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Optimal-Pratik/DSA/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
