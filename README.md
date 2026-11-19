@@ -14,6 +14,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Optimal-Pratik/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Optimal-Pratik/DSA/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/Optimal-Pratik/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Optimal-Pratik/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Optimal-Pratik/DSA/tree/master/0268-missing-number) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Optimal-Pratik/DSA/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Optimal-Pratik/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
