@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Optimal-Pratik/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Optimal-Pratik/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Optimal-Pratik/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Optimal-Pratik/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Optimal-Pratik/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Optimal-Pratik/DSA/tree/master/0507-perfect-number) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Optimal-Pratik/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Optimal-Pratik/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Optimal-Pratik/DSA/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Optimal-Pratik/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
@@ -66,6 +68,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Optimal-Pratik/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Optimal-Pratik/DSA/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
