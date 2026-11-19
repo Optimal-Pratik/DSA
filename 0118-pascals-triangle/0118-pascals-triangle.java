@@ -13,8 +13,8 @@ class Solution {
         list.add(1);
         for(int i = 1; i < row; i++)
         {
-            int num = list.get(i - 1) * (row - i) / i;
-            list.add(num);
+            long num = list.get(i - 1) * (row - i) / i;
+            list.add((int)num);
         }
         return list;
     }
