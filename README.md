@@ -17,6 +17,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Optimal-Pratik/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Optimal-Pratik/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Optimal-Pratik/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Optimal-Pratik/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Optimal-Pratik/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Optimal-Pratik/DSA/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Optimal-Pratik/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Optimal-Pratik/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Optimal-Pratik/DSA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -72,6 +74,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Optimal-Pratik/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Optimal-Pratik/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Optimal-Pratik/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
