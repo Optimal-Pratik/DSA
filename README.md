@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Optimal-Pratik/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Optimal-Pratik/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Optimal-Pratik/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Optimal-Pratik/DSA/tree/master/0054-spiral-matrix) |
@@ -33,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Optimal-Pratik/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Optimal-Pratik/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Optimal-Pratik/DSA/tree/master/0268-missing-number) |
 ## Binary Search
